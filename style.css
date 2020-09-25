@@ -1,0 +1,25 @@
+/* a-ra pakolt pszuedo-elemek link, visited, hover, active */
+
+a:link {
+    text-decoration: none;
+    color: red;
+}
+
+a:visited {
+    text-decoration: line-through;
+    color: dodgerblue;
+}
+
+a:hover {
+    text-decoration: overline;
+    color: mediumseagreen;
+}
+
+a:active {
+    text-decoration: none;
+    color: yellow;
+}
+
+table { 
+    
+}
